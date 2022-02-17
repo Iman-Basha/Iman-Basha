@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Iman-Basha
-- 👀 I’m interested in solving problems and learning new things.
+- 👀 I love solving problems and learning new things.
 - 🌱 I’m currently learning CS50 and Human Computer Interation (HCI).
 
 <!---
